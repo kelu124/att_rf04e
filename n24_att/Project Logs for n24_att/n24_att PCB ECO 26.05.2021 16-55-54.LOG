@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=K?-1
+Removed Pin From Net: NetName=GND Pin=K?-2
+Removed Pin From Net: NetName=GND Pin=K?-3
+Removed Pin From Net: NetName=wp Pin=K?-4
+Removed Pin From Net: NetName=updi Pin=K?-5
+Removed Pin From Net: NetName=NetK?_6 Pin=K?-6
+Removed Pin From Net: NetName=scl Pin=K?-7
+Removed Member From Class: ClassName=n24_att Member=K?
+Added Component: Designator=K2(7_PLS_2.54)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=K2-1
+Added Pin To Net: NetName=GND Pin=K2-2
+Added Pin To Net: NetName=GND Pin=K2-3
+Added Pin To Net: NetName=wp Pin=K2-4
+Added Pin To Net: NetName=updi Pin=K2-5
+Added Pin To Net: NetName=NetK?_6 Pin=K2-6
+Added Pin To Net: NetName=scl Pin=K2-7
+Change Net Name : Old Net Name=NetK?_6 New Net Name=NetK2_6
+Added Member To Class: ClassName=n24_att Member=Component K2 7_PLS_2.54mm
